@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    text-align: center;
+    letter-spacing:25px ;
+    line-height: 50px;
+    border-bottom: 20px solid turquoise;
+    margin-left: 400px;
+    margin-right: 400px;
+}
